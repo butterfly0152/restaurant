@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image: url("./img/wallpaper.svg");		
+}
+
+.navbar-default{
+	background: transparent;
+	border:none;
+	margin-left:3%;
+	margin-right:3%;
+}
+
+.navbar-nav li a{
+	font-size: 20px;
+}
+
+.navbar-nav a:hover{
+	color:pink !important;	
+}
+
+.order{
+	background-image:url("./img/order20.jpg");
+	margin-left:3%;
+	font-size:20px;
+}
+
+th{
+	color:rgb(203, 203, 179);	
+}
+
+th,td{
+	padding: 5px;
+}
+
+input, textarea{
+	border-radius:10px;	
+}
